@@ -87,3 +87,10 @@ grep openssh -> openssh라는 문자 검색
 ![image](https://user-images.githubusercontent.com/44438752/62206374-a2f24f00-b3cc-11e9-8bd6-851b37a42c80.png)
 
 ![image](https://user-images.githubusercontent.com/44438752/62206398-ae457a80-b3cc-11e9-933c-f7e6104b1213.png)
+
+<br/><br/>
+
+## 9. 클라이언트 측에서 ssh 서버 접속
+![image](https://user-images.githubusercontent.com/44438752/62206459-d3d28400-b3cc-11e9-97d9-9f1ccec980bc.png)
+![image](https://user-images.githubusercontent.com/44438752/62206484-e220a000-b3cc-11e9-89fc-fc42e874b8b1.png)
+![image](https://user-images.githubusercontent.com/44438752/62206496-e8af1780-b3cc-11e9-996d-3e4cf3e2184e.png)
