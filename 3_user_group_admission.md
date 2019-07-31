@@ -13,9 +13,8 @@
 <br/><br/>
 
 ## 2. 유저, 그룹 추가
+
 - seongsil이라는 유저 추가
-
-
 ![image](https://user-images.githubusercontent.com/44438752/62208031-a982c580-b3d0-11e9-93fa-d8a4c2f0b54c.png)
 
 - seongsil 유저는 그룹 group1에 추가
@@ -37,6 +36,9 @@
 
 
 ![image](https://user-images.githubusercontent.com/44438752/62208216-2615a400-b3d1-11e9-97cd-d094df15bea8.png)
+
+
+<br/><br/>
 
 ## 3. 외부에서 테스트
 
