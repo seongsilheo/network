@@ -8,6 +8,7 @@
 <br/>
 ![image](https://user-images.githubusercontent.com/44438752/62205527-95d46080-b3ca-11e9-967c-ce324467d7eb.png)
 
+![스크린샷 2019-07-31 오후 7 06 54](https://user-images.githubusercontent.com/44438752/62203620-7b988380-b3c6-11e9-8337-ea32b845120a.png)
 <br/><br/>
 ## 2. 설치된 패키지 리스트 확인
 ### - 여기서는 openssh-server가 설치되지 않았음을 확인할 수 있음
