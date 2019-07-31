@@ -41,6 +41,6 @@
 <br/><br/>
 
 ## 3. 외부에서 테스트
-
+- 테스트 이전에 sftp 서버 먼저 설치할 것
 
 ![image](https://user-images.githubusercontent.com/44438752/62208267-4b0a1700-b3d1-11e9-964f-7a7395c4d4ab.png)
