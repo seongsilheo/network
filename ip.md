@@ -8,6 +8,3 @@
 집에서는 주로 유동 IP를 사용하나 고정 IP를 사용하고자 하면 다음 IP 주소 사용에 정보를 입력하면 된다. 고정 IP를 쓰게되면 IP자원은 한정되어 있어 부족하게 되기 때문에 효율적인 IP 사용을 위해 유동 IP를 사용한다. cmd창에서 ifconfig을 입력하면 IP정보를 확인할 수 있다. 
 
 IP주소를 기억하기 힘들기 때문에 DNS(Domain name service)를 이용해서 기억하기 쉽게 이름을 붙여주어 사용하는 것이 www.google.com 같은 것이다.
-
-![image](https://user-images.githubusercontent.com/44438752/62205910-84d81f00-b3cb-11e9-8ee9-22c619ae7c41.png)
-
