@@ -9,5 +9,5 @@
 
 IP주소를 기억하기 힘들기 때문에 DNS(Domain name service)를 이용해서 기억하기 쉽게 이름을 붙여주어 사용하는 것이 www.google.com 같은 것이다.
 
+![image](https://user-images.githubusercontent.com/44438752/62205910-84d81f00-b3cb-11e9-8ee9-22c619ae7c41.png)
 
-![스크린샷 2019-07-31 오후 7 06 54](https://user-images.githubusercontent.com/44438752/62203620-7b988380-b3c6-11e9-8337-ea32b845120a.png)
