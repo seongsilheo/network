@@ -52,12 +52,19 @@ grep openssh -> openssh라는 문자 검색
 ![image](https://user-images.githubusercontent.com/44438752/62206176-2a8b8e00-b3cc-11e9-9f19-1688a5cd10e6.png)
 
 -a : 모든 연결 및 수신 대기 포트를 표시한다.
+<br/>
 -c : 현재 실행 명령을 매 초마다 실행한다.
+<br/>
 -l : LISTEN 하고 있는 포트를 보여준다.
+<br/>
 -t : TCP로 연결된 포트를 보여준다.
+<br/>
 -u : UDP로 연결된 포트를 보여준다.
+<br/>
 -n : 주소나 포트 형식을 숫자로 표현한다.
+<br/>
 -p : 해당 프로세스를 사용하고 있는 프로그램 이름을 보여준다.
+<br/>
 -r : 라우팅 테이블을 보여준다.
 
 ## 6. 모든 서비스 목록 출력. +는 실행중, -는 실행중이 아닌 서비스
@@ -74,3 +81,9 @@ grep openssh -> openssh라는 문자 검색
 ![image](https://user-images.githubusercontent.com/44438752/62206313-7b9b8200-b3cc-11e9-93d9-ceb0baaf16a1.png)
 
 ## 8. ssh 포트번호 수정
+- 22 -> 10000
+
+
+![image](https://user-images.githubusercontent.com/44438752/62206374-a2f24f00-b3cc-11e9-8bd6-851b37a42c80.png)
+
+![image](https://user-images.githubusercontent.com/44438752/62206398-ae457a80-b3cc-11e9-933c-f7e6104b1213.png)
