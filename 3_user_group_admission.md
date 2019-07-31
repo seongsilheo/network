@@ -14,7 +14,7 @@
 
 ## 2. 유저, 그룹 추가
 
-- seongsil이라는 유저 추가
+- seongsil이라는 유저 추가 <br/>
 ![image](https://user-images.githubusercontent.com/44438752/62208031-a982c580-b3d0-11e9-93fa-d8a4c2f0b54c.png)
 
 - seongsil 유저는 그룹 group1에 추가
