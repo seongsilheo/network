@@ -10,6 +10,6 @@ os를 설치한 하드디스크 a를 제외하고 b,c,d는 파티션이 나눠�
 2. 파티션 나누기 (여기서는 sbd 먼저 파티션 설정)
 
 
-![image](https://user-images.githubusercontent.com/44438752/62206962-dda8b700-b3cd-11e9-9019-41e945022f1b.png)
+![image](https://user-images.githubusercontent.com/44438752/62207237-9969e680-b3ce-11e9-93a7-98bbc789cc45.png)
 ![image](https://user-images.githubusercontent.com/44438752/62207109-47c15c00-b3ce-11e9-96ae-36c764603e14.png)
 ![image](https://user-images.githubusercontent.com/44438752/62207123-50b22d80-b3ce-11e9-8929-fa9cfae03652.png)
