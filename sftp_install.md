@@ -7,7 +7,6 @@
 # sftp 설정방법
 ## 1. 설치된 패키지 업그레이드 
 <br/>
-
 ![image](https://user-images.githubusercontent.com/44438752/62205910-84d81f00-b3cb-11e9-8ee9-22c619ae7c41.png)
 <br/><br/>
 ## 2. 설치된 패키지 리스트 확인
