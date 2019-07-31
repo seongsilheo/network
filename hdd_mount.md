@@ -27,6 +27,7 @@ os를 설치한 하드디스크 a를 제외하고 b,c,d는 파티션이 나눠�
 
 4. 부팅시 자동으로 하드디스크를 자동 mount하도록 설정
 - /etc/fstab에 추가된 하드디스크 정보들 입력
+- mi_hdd_1, mi_hdd_2, mi_hdd_3 폴더 먼저 생성하고 자동 마운트 설정
 
 ![image](https://user-images.githubusercontent.com/44438752/62207458-2614a480-b3cf-11e9-911f-5ec428990a28.png)
 ![image](https://user-images.githubusercontent.com/44438752/62207471-2ca31c00-b3cf-11e9-9858-a6ca4e648453.png)
