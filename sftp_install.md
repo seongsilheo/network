@@ -9,9 +9,11 @@
 
 ![image](https://user-images.githubusercontent.com/44438752/62205910-84d81f00-b3cb-11e9-8ee9-22c619ae7c41.png)
 <br/><br/>
+
 ## 2. 설치된 패키지 리스트 확인
 ### - 여기서는 openssh-server가 설치되지 않았음을 확인할 수 있음
-<br/>
+
+
 ![image](https://user-images.githubusercontent.com/44438752/62205588-be5c5a80-b3ca-11e9-96ec-f31045fd04d5.png)
 <br/>
 deb 파일 설치 : dpkg -i <file name.deb>
