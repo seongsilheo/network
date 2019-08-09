@@ -49,7 +49,7 @@ grep openssh -> openssh라는 문자 검색
 <br/><br/>
 ## 5. 네트워크 상태 알아보기(어떤 포트가 열려있고 어떤 이름으로 어떻게 사용되는지)
 
-![image](https://user-images.githubusercontent.com/44438752/62206176-2a8b8e00-b3cc-11e9-9f19-1688a5cd10e6.png)
+![스크린샷 2019-08-09 오후 7 02 33](https://user-images.githubusercontent.com/44438752/62771649-af675d80-bad8-11e9-9c8a-21315fea970c.png)
 
 -a : 모든 연결 및 수신 대기 포트를 표시한다.
 <br/>
@@ -83,16 +83,15 @@ grep openssh -> openssh라는 문자 검색
 <br/><br/>
 
 ## 8. ssh 포트번호 수정
-- 22 -> 10000
 
 
 ![image](https://user-images.githubusercontent.com/44438752/62206374-a2f24f00-b3cc-11e9-8bd6-851b37a42c80.png)
-
-![image](https://user-images.githubusercontent.com/44438752/62206398-ae457a80-b3cc-11e9-933c-f7e6104b1213.png)
+![스크린샷 2019-08-09 오후 7 02 55](https://user-images.githubusercontent.com/44438752/62771653-affff400-bad8-11e9-8b73-91073bd82192.png)
 
 <br/><br/>
 
 ## 9. 클라이언트 측에서 ssh 서버 접속
 ![image](https://user-images.githubusercontent.com/44438752/62206459-d3d28400-b3cc-11e9-97d9-9f1ccec980bc.png)
-![image](https://user-images.githubusercontent.com/44438752/62206484-e220a000-b3cc-11e9-89fc-fc42e874b8b1.png)
+![62206484-e220a000-b3cc-11e9-89fc-fc42e874b8b1](https://user-images.githubusercontent.com/44438752/62771662-b2fae480-bad8-11e9-83bf-35e4d48bfb8e.png)
+
 ![image](https://user-images.githubusercontent.com/44438752/62206496-e8af1780-b3cc-11e9-996d-3e4cf3e2184e.png)
