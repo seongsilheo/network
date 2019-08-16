@@ -1,4 +1,18 @@
-NAS 설치후,
+NAS 설치하기
+
+
+![ddd](https://user-images.githubusercontent.com/44438752/63148284-b1cb3980-c03b-11e9-93b6-3592c166ba2c.jpeg)
+
+![d](https://user-images.githubusercontent.com/44438752/63148326-d0c9cb80-c03b-11e9-81e9-9f868d600383.jpeg)
+
+login: root password:앞에서 설정한 비밀번호
+
+root@아이디:~# 
+화면이 뜰것임.
+ip address 입력하여 ip주소 알아내기.
+
+ip주로소 접속.
+
 
 <br/><br/>
 ## 1. 네트워크 설정
