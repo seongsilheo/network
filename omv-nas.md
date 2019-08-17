@@ -90,7 +90,7 @@ vi seongsil
 <br/><br/>
 ![aa](https://user-images.githubusercontent.com/44438752/62623485-ec5a1580-b95b-11e9-8ee9-31c8285cbaba.png)
 6-5. 마운트 하기
-sudo mount -t cifs -o user='사용자이름' //서버주소/공유폴더 마운트경로
+sudo mount -t cifs -o user='사용자이름' //서버주소/공유폴더 마운트경로  (파일의 권한 설정을 위해서는 다음과  옵션을  추가하면 됨.uid=seongsil,gid=master,file_mode=0775,dir_mode=0775)
 
 ![dde](https://user-images.githubusercontent.com/44438752/62629107-85425e00-b967-11e9-86d2-8b12259d0e4d.png)
 <br/><br/>
@@ -99,4 +99,13 @@ sudo mount -t cifs -o user='사용자이름' //서버주소/공유폴더 마운�
 
 ![aa](https://user-images.githubusercontent.com/44438752/62629144-94291080-b967-11e9-8102-2fe968f09885.png)
 
+6-7. 마운트 고정시키기 위해서는,
 
+    sudo nano /etc/fstab
+
+에서 다음을 추가
+
+    //[ip주소]/마운트 시킬omv의 폴더 경로  /mount point file type
+    //192.168.0.1/master  /mnt/master-file cifs username=mifile,password=12345,uid=seongsil,gid=master,file_mode=0775,dir_mode=0775 0 0
+
+ 
