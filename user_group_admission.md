@@ -44,4 +44,4 @@
 - 테스트 이전에 sftp 서버 먼저 설치할 것
 https://github.com/seongsilheo/network/blob/master/sftp_install.md
 
-![dd](https://user-images.githubusercontent.com/44438752/63107047-3035c600-bfbf-11e9-84ef-6548a9855ebc.png)
+![ss](https://user-images.githubusercontent.com/44438752/63264432-05e94e80-c2c6-11e9-8c22-eea8476bcffc.png)
